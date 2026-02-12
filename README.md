@@ -1,4 +1,4 @@
-LSTM-Based Stock Price Prediction
+# LSTM-Based Stock Price Prediction
 Microsoft (MSFT) Closing Price Forecasting using Deep Learning
 
 🚀 Project Overview
